@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New propositions from His Excellency Sir Thomas Fairfax, Lieutenant Generall Cromwell, and the Councell of the Army, concerning the Kings Majesty, his royall consort the Queene, Charles Prince of Wales, and James Duke of York, presented to His Majesty at Hampton-Court. With His Majesties gracious answer and desires. Signed, Charles Rex.</title>
+            <author>Charles I, King of England, 1600-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84864</idno>
+            <idno type="STC">Wing F207</idno>
+            <idno type="STC">Thomason E407_13</idno>
+            <idno type="STC">ESTC R202105</idno>
+            <idno type="EEBO-CITATION">99862511</idno>
+            <idno type="PROQUEST">99862511</idno>
+            <idno type="VID">160507</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84864)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160507)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E407[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New propositions from His Excellency Sir Thomas Fairfax, Lieutenant Generall Cromwell, and the Councell of the Army, concerning the Kings Majesty, his royall consort the Queene, Charles Prince of Wales, and James Duke of York, presented to His Majesty at Hampton-Court. With His Majesties gracious answer and desires. Signed, Charles Rex.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Army. Council. 1647-09-15.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>for Robert Williamson,</publisher>
+                  <pubPlace>Printed at London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists primarily of the reply by Charles I, with a cover letter of 15 Sept. 1647 containing the Army's proposals, and a final note signed by Jo: Hall, 15 Sept. 1647.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, --  Early works to 1800.</term>
+               <term>Cromwell, Oliver --  1599-1658 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army. --  Council --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160507:1" rendition="simple:additions"/>
+            <p>NEW PROPOSITIONS FROM His Excellency Sir <hi>Thomas Fairfax,</hi> Lieute<g ref="char:EOLhyphen"/>nant Generall <hi>Cromwell,</hi> and the Councell of the Ar<g ref="char:EOLhyphen"/>my, concerning the Kings Majeſty, His Royall Con<g ref="char:EOLhyphen"/>ſort the Queene, <hi>Charles</hi> Prince of <hi>Wales,</hi> and <hi>James</hi> Duke of <hi>York, Preſented to His Majeſty at Hampton-Court.</hi> With His Majeſties Gracious Anſwer and Deſires.</p>
+            <p>Signed, <hi>CHARLES REX.</hi>
+            </p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>English royal blazon surmounted by a crown</figDesc>
+            </figure>
+            <p>
+               <add>7<hi rend="sup">ber</hi> 16.</add> Printed at <hi>London,</hi> for <hi>Robert Williamſon,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160507:2"/>
+            <pb facs="tcp:160507:2"/>
+            <head>ANOTHER MESSAGE FROM The Kings <hi>Majeſty</hi> at <hi>Hampton</hi>-Court: Sent to the Honourable Houſe of Peeres, together with his new propoſiti<g ref="char:EOLhyphen"/>ons, and Deſires therein.</head>
+            <head type="sub">
+               <hi>Incloſed in a Letter from</hi> Hampton-Court, September, 15.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>YOu have ever purſued me with your favours, that I am made capable of no other pleaſure in the world but to entertain them: inſomuch, that ſhould I offer up my being to you, tis impoſſible for me, but in part to diſ-ingage my ſelfe; ſo that of ne<g ref="char:EOLhyphen"/>ceſſity I muſt want both words and ſervices to ex<g ref="char:EOLhyphen"/>preſſe how unfeinedly I honour you: Nevertheleſſe, <hi>I</hi> ſhall embolden my ſelf, to make my earneſt deſire
+<pb facs="tcp:160507:3"/>viſible unto you, by imparting that, which all Loyal Subjects deſires to be partakers of; and therefore, for generall ſatisfaction to your ſelfe, and the whole Kingdome, I thought it expedient to communicate his Majeſties laſt Meſſage and Reſolution unto you, that ſo the whole Kingdome may take notice of His gracious inclination towards a firme and well ſetled Peace, together with His Majeſties Propoſalls and Deſires therein, to His two Houſes of Parliament aſ<g ref="char:EOLhyphen"/>ſembled at <hi>Weſtminſter,</hi> and how far He declares him ſelf for the Army; All which I ſhall make manifeſt in his Majeſties incloſed Meſſage, ſigned <hi>Charles Rex.</hi>
+            </p>
+            <p>In the intrim, I humbly crave your favourable ac-acceptation, to vouchſafe the ſerious peruſall of theſe enſuing <hi>Propoſals,</hi> to which, his Majeſty doth ſo well approve of, <hi>viz.</hi>
+            </p>
+            <p n="1">1. An Act to be paſſed to take away all coercive power, authority, and juriſdiction of Biſhops, and all other Eccleſiaſticali Officers whatſoever, extending to any civill penalties upon any.</p>
+            <p n="2">2. That there be a repeale of all Acts or Clauſes in any Act enjoyning the uſe of the Booke of Com<g ref="char:EOLhyphen"/>mon-Prayer, and impoſing any penalties for neglect thereof, as alſo of all Acts or Clauſes in any Act, im<g ref="char:EOLhyphen"/>poſing any penalties for not coming to Church, or for meetings elſe-where, for prayer, or other religi<g ref="char:EOLhyphen"/>ous duties.</p>
+            <p n="3">3. That the taking of the Covenant be not inforced upon any, or any penalties impoſed upon the Refu<g ref="char:EOLhyphen"/>ſers, whereby men might be conſtrained to take it a<g ref="char:EOLhyphen"/>gainſt their judgments, or conſciences, but all Orders oa Ordinances, tending to that purpoſe to be repea<g ref="char:EOLhyphen"/>led.</p>
+            <p n="4">
+               <pb facs="tcp:160507:3"/> 4. That (the things here-before propoſed, being provided, for ſetling and ſecuring the Rights, Liber<g ref="char:EOLhyphen"/>ties, Peace, and ſafety of the Kingdom) his Majeſties perſon, his Queen, and royall iſſue may bee reſtored to a condition of ſafety, honour, and freedome in this Natton, without dimunition to their perſonall rights, or further limitation, to the exerciſe of the Regall power, than according to the particulars afore<g ref="char:EOLhyphen"/>going.</p>
+            <p n="5">5. That there may be a generall Act of Oblivion to extend unto all, &amp;c.</p>
+            <p>All which Propoſals, together with many others, were debated and agreed upon, by the Generall, and the Councell of his Army, and preſented to the Kings moſt gracious Majeſty; who after ſome per<g ref="char:EOLhyphen"/>uſall of the ſame, his Majeſty declared a great affec<g ref="char:EOLhyphen"/>tion towards them, and immediatly declared himſelf to both Houſes of Parliament, as followeth:</p>
+         </div>
+         <div type="royal_declaration">
+            <head>His Majeſties gracious Meſsage (or Declaration) to His two Houſes of Parliament aſſembled at Weſtminſter.</head>
+            <opener>
+               <signed>CHARLES REX.</signed>
+            </opener>
+            <p>HIs Majeſty cannot chooſe but bee paſſionately ſenſible (as hee believes all his good Subjects are) of the late great diſtractions, and ſtill languiſh<g ref="char:EOLhyphen"/>ing and unſetled State of this Kingdome; And Hee calls God to witneſſe, and is willing to give teſtimony
+<pb facs="tcp:160507:4"/>to all the world of his readineſſe to contribute his ut<g ref="char:EOLhyphen"/>moſt endeavours for reſtoring it to a happy &amp; flou<g ref="char:EOLhyphen"/>riſhing condition.</p>
+            <p>His Majeſty having peruſed the Propoſitions now brought to him, ſinds them the ſame in effect which were offered to him at Newcaſtle. To ſome of which, he could not then conſent without violation of his conſcience and honour; ſo can hee neither a<g ref="char:EOLhyphen"/>gree to others now, conceiving them in many reſpects more diſproportionable to the preſent condition of affaires then when they were formerly preſented to him, as being deſtructive to the many principall inte<g ref="char:EOLhyphen"/>reſts of the Army, and of all thoſe whoſe affections concurre with them.</p>
+            <p>And his Majeſty having ſeene the Propoſals of the Army to the Commiſſioners of his two Houſes re<g ref="char:EOLhyphen"/>ſiding with them, and with them to be treated on, in order to the clearing and ſecuring the rights and Li<g ref="char:EOLhyphen"/>berties of the Kingdome, as the ſetling of a juſt and laſting Peace.</p>
+            <p>To which Propoſals, as he conceives his two Hou<g ref="char:EOLhyphen"/>ſes not to be ſtrangers, ſo he believes they will thinke with him, that they much more conduce to the ſatiſ<g ref="char:EOLhyphen"/>faction of all intereſts, and may bee a fitter foundati<g ref="char:EOLhyphen"/>on for a laſting peace, then the Propoſitions which at this time are tendred to him.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> He therefore propounds (as the beſt way in His judgment in order to Peace) that his two Houſes would inſtantly take into conſideration thoſe Pro<g ref="char:EOLhyphen"/>poſals upon which there may be a perſonall treaty with his Majeſty, and upon ſuch other Propoſalls as his Majeſty ſhall make, hoping that the ſaid Propo<g ref="char:EOLhyphen"/>ſals may be ſo moderated in the ſaid treaty, as to ren<g ref="char:EOLhyphen"/>der
+<pb facs="tcp:160507:4"/>them the more capable of his Majeſties full con<g ref="char:EOLhyphen"/>ceſſions, wherein hee reſolves to give full ſatisfaction to his People for whatſoever ſhall concerne the ſet<g ref="char:EOLhyphen"/>ling of the Proteſtant Profeſſion, with liberty to ten<g ref="char:EOLhyphen"/>der Conſciences, and the ſecuring of the Lawes, Li<g ref="char:EOLhyphen"/>berties, and properties; of all his Subjects, and the juſt priviledges of Parliament for the future.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> And likewiſe by his preſent deportment in this trea<g ref="char:EOLhyphen"/>ty, hee will make the world clearly judge of his in<g ref="char:EOLhyphen"/>tentions in matter of future Government; In which treaty his Maj. will be pleaſed (if it be thought fit) that Commiſſioners from the Army (whoſe the Pro<g ref="char:EOLhyphen"/>poſals are) may likewiſe be admitted.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> His Majeſty therefore conjures his two Houſes of Parliament, by the duty they owe to God, and his Ma<g ref="char:EOLhyphen"/>jeſty their King, and by the bowels of compaſſion they have to their fellow ſubjects, both for reliefe of their preſent ſufferings, and to prevent future miſe<g ref="char:EOLhyphen"/>ries, that they will forthwith accept of his Majeſties offer, whereby the joyfull newes of peace may bee reſtored to this diſtreſſed Kingdome. And for what concernes the Kingdom of <hi>Scotland</hi> mentioned in the Propoſitions, his Majeſty will very willingly treate upon thoſe particulars with the Scotch Commiſſio<g ref="char:EOLhyphen"/>ners; and doubts not but to give reaſonable ſatisfacti<g ref="char:EOLhyphen"/>on to that his Kingdome.</p>
+            <closer/>
+            <postscript>
+               <head>For the Right Honourable, the Earl of Mancheſter, Speaker of the Houſe of Peeres, <hi>pro tempore,</hi> to be communicated to both Houſes of the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi>and the Commiſsioners of the Kingdome of <hi>Scotland,</hi>
+               </head>
+               <pb facs="tcp:160507:5"/>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>IT is hoped that this Anſwer will give very much ſatisfaction to the Kingdome, and therefore I deſire you to uſe your ut<g ref="char:EOLhyphen"/>moſt endeavours for the publiſhing there<g ref="char:EOLhyphen"/>of, that ſo the world may take notice of the great forwardneſſe and readineſſe of his Ma<g ref="char:EOLhyphen"/>jeſty to contribute his utmoſt endeavours for reſtoring of this poor languiſhing king<g ref="char:EOLhyphen"/>dome to a happy and flouriſhing condition, and alſo the reall and candid intentions of the Army, towards his Majeſty, the Queen, and Royal Iſſue. Thus, for the preſent, I muſt reſtrain my pen, but ſhall for ever hereafter ſet my hand to the Paper, to expreſſe how much <hi>I</hi> am</p>
+               <closer>
+                  <signed>Your faithfull friend and ſervant, <hi>Jo: Hall.</hi>
+                  </signed>
+                  <dateline>From <hi>Hampton-Court,</hi> 
+                     <date>this 15. of September, 1647.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
